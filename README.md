@@ -1,19 +1,19 @@
 # Karan D. Thanage
 
-_Website Developer and Professional Ethical Hacker based in India :india:_ <br>
+_Website Developer and Professional Ethical Hacker based in India 🇮🇳_ <br>
 
 [Email](mailto:Karanthange710@gmail.com) / [Telegram](https://t.me/infoanonymous) / [LinkedIn](https://www.linkedin.com/in/thenameiskarrry/) / [GitHub](https://github.com/2waytoceo/) / [Twitter](https://twitter.com/2waytoceo/) / [Instagram](https://instagram.com/1st.raw/)
 
-## :fleur_de_lis: Current Affairs
+## ⚜️ Current Affairs
 _Note: work in process and maintainance_ <br>
   - **1st startup** - *2Way Infotech pvt ltd* - Web3, ERP, Digital Networking, Cyber Security, CEH, Web Development, App Development & Software Development.
-  - **2nd startup** - *Hotdate | the indian dating app 2023* - Romance, dating, relationship & love.
+  - **2nd startup** - *Hotdate the indian dating app 2023* - Romance, dating, relationship & love.
 
-## :briefcase: Team Members & Partners
+## 💼 Team Members & Partners
 _Note: All Are professionals on rank based of indian institues_
-  - **CEO & FOUNDER**  - _[Karan D. Thanage](https://in.linkedin.com/in/thenameiskarrry) of 2way infotech pvt ltd & HotDate | The Indian Dating App._
-  - **MD**             - _[Atharva J. Yewale](https://www.instagram.com/_anonymous_atharva/) of 2way infotech pvt ltd & HotDate | The Indian Dating App._
-  - **CFO**            - _[Mujahid Bagwan](https://www.instagram.com/BAGWAN_MUJAHID/) of 2way infotech pvt ltd & HotDate | The Indian Dating App._
+  - **CEO & FOUNDER**  - [Karan D. Thanage](https://in.linkedin.com/in/thenameiskarrry) of 2way infotech pvt ltd & HotDate The Indian Dating App.
+  - **MD**             - [Atharva J. Yewale](https://www.instagram.com/_anonymous_atharva/) of 2way infotech pvt ltd & HotDate The Indian Dating App.
+  - **CFO**            - [Mujahid Bagwan](https://www.instagram.com/BAGWAN_MUJAHID/) of 2way infotech pvt ltd & HotDate The Indian Dating App.
 
 ## 👩🏼‍💻 Development Experience
 
@@ -66,9 +66,9 @@ _Previously worked as a Reporter from Jul 2022 - Oct 2022_ <br>
 
 ## 💬 Languages
 
-:india: **Marathi**: Native <br>
-:india: **Hindi**: B1
-:us: **English**: B2 
+🇮🇳 **Marathi**: Native <br>
+🇮🇳 **Hindi**: B1
+🇺🇸 **English**: B2 
 <br><br>
 
 ## 👩🏼‍🎓 Education
