@@ -5,14 +5,27 @@ _Website Developer and Professional Ethical Hacker based in India 🇮🇳_ <br>
 ## 🔐 Personal Information
 _**Date of Birth:** 23 Sept 2002_ <br>
 _**Residence:** Pune, MH, India 🇮🇳_ <br>
-_**Nike Name:** Karrry & Anonymity 👨‍💻_ <br>
+_**Nick Name:** Karrry & Anonymity 👨‍💻_ <br>
+_**Admin Of Groups:**  1) Anonymous
+                       2) LusCruel
+                       3) CraxMind
+                       4) Illuminaty
+                       5) Hydra Market
+                       6) Silver Road v7.31.0
+                       7) NSO Groups MArketPlace
+                       8) Great Milton street, UK
+                       9) IB-Forensic
+                       10) Hackthebox
+                       11) Dark-Web Market
+                       12) Black Market
+                       13) Blackhat Hacking Mart 👨‍💻_ <br>
 
 [WhatsApp](https://wa.me/+917887970701) / [Email](mailto:Karanthange710@gmail.com) / [Telegram](https://t.me/infoanonymous) / [LinkedIn](https://www.linkedin.com/in/thenameiskarrry/) / [GitHub](https://github.com/2waytoceo/) / [Twitter](https://twitter.com/2waytoceo/) / [Instagram](https://instagram.com/1st.raw/)
 
 ## ⚜️ Current Affairs
 _Note: work in process and maintainance_ <br>
   - **1st startup** - *2Way Infotech pvt ltd* - Web3, ERP, Digital Networking, Cyber Security, CEH, Web Development, App Development & Software Development.
-  - **2nd startup** - *Hotdate - the indian dating app 2023* - Romance, dating, relationship & love.
+  - **2nd startup** - *HotDate - the indian dating app 2023* - Romance, dating, relationship & love.
 
 ## 💼 Team Members & Partners
 _Note: All Are professionals on rank based of indian institues_
@@ -22,7 +35,7 @@ _Note: All Are professionals on rank based of indian institues_
 
 ## 👩🏼‍💻 Development Experience
 
-**Frontend Developer** @ [BRYTER](https://bryter.com/) _(Dec 2022 - Present)_ <br>
+**Frontend Developer** @[BRYTER](https://bryter.com/) _(Dec 2022 - Mar 2023)_ <br>
 No-code platform that enables professionals to build interactive applications.
   - Founding member of BRYTER's design system team and continued to provide support and extend the component library
   - Wrote code in multiple architecture layers, including the application core and integrations with external services
@@ -31,7 +44,7 @@ No-code platform that enables professionals to build interactive applications.
 <br><br>
 
 
-**Frontend Engineer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2022 - Sep 2022)_ <br>
+**Frontend Engineer** @[Blacklane](https://www.blacklane.com/en) _(Mar 2022 - Sep 2022)_ <br>
 Professional chauffeur service available in over 300 cities worldwide.
   - Worked in a cross-functional, agile team to rebuild and rebrand the [B2C booking experience](https://www.blacklane.com/en/)
   - Led an accessibility initiative resulting in the website [passing WCAG 2.0 requirements](https://www.blacklane.com/en/accessibility/)
@@ -39,7 +52,7 @@ Professional chauffeur service available in over 300 cities worldwide.
   - **_Technologies used:_** HTML, CSS, JavaScript ES6, React, TypeScript, Storybook, Redux, Next.js, REST, Jest, Mocha, Cypress, TravisCI.
   <br><br>
 
-**Technical Writer** @ [Contentful](https://www.contentful.com/) _(Sep 2022 - Feb 223)_ <br>
+**Technical Writer** @[Contentful](https://www.contentful.com/) _(Sep 2022 - Feb 2023)_ <br>
 API-first infrastructure to create, manage and distribute content.
   - Ownership of Contentful's [technical blog](https://www.contentful.com/blog/)
   - Assistance with information architecture and UX writing for the web app
@@ -78,7 +91,7 @@ _Previously worked as a Reporter from Jul 2022 - Oct 2022_ <br>
 
 ## 👩🏼‍🎓 Education
 
-**12-Months intensive coding course** focused on Professional Ethical Hacking <br>
+**18-Months intensive coding course** focused on Professional Ethical Hacking <br>
 [EC-Council](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/) - MH, INDIA _(Apr 2020 - Apr 2021)_ <br>
 
 **Offensive Security Wireless Professional (OSWP)**<br>
@@ -91,10 +104,10 @@ _Previously worked as a Reporter from Jul 2022 - Oct 2022_ <br>
 [Offensive Security](https://www.offsec.com/) - Delhi, India _(Spring 2022)_
 
 **JESS College** _complete the Hsc_ <br>
-[Jess College](https://mvp.edu.in/mvpsite/) - Nsk, MH, India _(2018 - 2020)
+[Jess College](https://mvp.edu.in/mvpsite/) - Nsk, MH, India _(2018 - 2020)_
 
 **NMVC School** _complete the SSC_ <br>
-[NMVC School](https://entranceindia.com/city-institution-isk/nutan-madhyamik-vidhyalay-in-chitegaon-nashik/) - Nsk, MH, India _(2010 - 2018)
+[NMVC School](https://entranceindia.com/city-institution-isk/nutan-madhyamik-vidhyalay-in-chitegaon-nashik/) - Nsk, MH, India _(2010 - 2018)_
 <br><br>
 
 ## 💳 Donate for Coffee with Karrry ☕
