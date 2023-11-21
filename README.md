@@ -5,19 +5,20 @@ _Website Developer and Professional Ethical Hacker based in India 🇮🇳_ <br>
 ## 🔐 Personal Information
 _**Date of Birth:** 23 Sept 2002_ <br>
 _**Residence:** Pune, MH, India 🇮🇳_ <br>
+_**Nike Name:** Karrry & Anonymity 👨‍💻_ <br>
 
 [WhatsApp](https://wa.me/+917887970701) / [Email](mailto:Karanthange710@gmail.com) / [Telegram](https://t.me/infoanonymous) / [LinkedIn](https://www.linkedin.com/in/thenameiskarrry/) / [GitHub](https://github.com/2waytoceo/) / [Twitter](https://twitter.com/2waytoceo/) / [Instagram](https://instagram.com/1st.raw/)
 
 ## ⚜️ Current Affairs
 _Note: work in process and maintainance_ <br>
   - **1st startup** - *2Way Infotech pvt ltd* - Web3, ERP, Digital Networking, Cyber Security, CEH, Web Development, App Development & Software Development.
-  - **2nd startup** - *Hotdate the indian dating app 2023* - Romance, dating, relationship & love.
+  - **2nd startup** - *Hotdate - the indian dating app 2023* - Romance, dating, relationship & love.
 
 ## 💼 Team Members & Partners
 _Note: All Are professionals on rank based of indian institues_
-  - **CEO & FOUNDER**  - [Karan D. Thanage](https://in.linkedin.com/in/thenameiskarrry) of 2way infotech pvt ltd & HotDate The Indian Dating App.
-  - **MD**             - [Atharva J. Yewale](https://www.instagram.com/_anonymous_atharva/) of 2way infotech pvt ltd & HotDate The Indian Dating App.
-  - **CFO**            - [Mujahid Bagwan](https://www.instagram.com/BAGWAN_MUJAHID/) of 2way infotech pvt ltd & HotDate The Indian Dating App.
+  - **CEO & FOUNDER**  - [Karan D. Thanage](https://in.linkedin.com/in/thenameiskarrry) of 2way infotech pvt ltd & HotDate - The Indian Dating App.
+  - **MD**             - [Atharva J. Yewale](https://www.instagram.com/_anonymous_atharva/) of 2way infotech pvt ltd & HotDate - The Indian Dating App.
+  - **CFO**            - [Mujahid Bagwan](https://www.instagram.com/BAGWAN_MUJAHID/) of 2way infotech pvt ltd & HotDate - The Indian Dating App.
 
 ## 👩🏼‍💻 Development Experience
 
@@ -94,3 +95,9 @@ _Previously worked as a Reporter from Jul 2022 - Oct 2022_ <br>
 
 **NMVC School** _complete the SSC_ <br>
 [NMVC School](https://entranceindia.com/city-institution-isk/nutan-madhyamik-vidhyalay-in-chitegaon-nashik/) - Nsk, MH, India _(2010 - 2018)
+<br><br>
+
+## 💳 Donate for Coffee with Karrry ☕
+**CRYPTO**
+  - BTC           -   [CLICK HERE](https://blockchair.com/bitcoin/address/bc1qg3tpurx3hk5qymsnudy8l54feyfxnhugwl9pjt)
+  - ETH (ERC20)   -   [CLICK HERE](https://blockchair.com/ethereum/address/0xbc616dea8cb0695ce3719c9df4019702e2225067)
