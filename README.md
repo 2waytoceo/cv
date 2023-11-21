@@ -2,6 +2,10 @@
 
 _Website Developer and Professional Ethical Hacker based in India 🇮🇳_ <br>
 
+## 🔐 Personal Information
+_**Date of Birth:** 23 Sept 2002_ <br>
+_**Residence:** Pune, MH, India 🇮🇳_ <br>
+
 [Email](mailto:Karanthange710@gmail.com) / [Telegram](https://t.me/infoanonymous) / [LinkedIn](https://www.linkedin.com/in/thenameiskarrry/) / [GitHub](https://github.com/2waytoceo/) / [Twitter](https://twitter.com/2waytoceo/) / [Instagram](https://instagram.com/1st.raw/)
 
 ## ⚜️ Current Affairs
