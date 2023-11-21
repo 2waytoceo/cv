@@ -6,19 +6,19 @@ _Website Developer and Professional Ethical Hacker based in India 🇮🇳_ <br>
 _**Date of Birth:** 23 Sept 2002_ <br>
 _**Residence:** Pune, MH, India 🇮🇳_ <br>
 _**Nick Name:** Karrry & Anonymity 👨‍💻_ <br>
-_**Admin Of Groups:**  1) Anonymous
-                       2) LusCruel
-                       3) CraxMind
-                       4) Illuminaty
-                       5) Hydra Market
-                       6) Silver Road v7.31.0
-                       7) NSO Groups MArketPlace
-                       8) Great Milton street, UK
-                       9) IB-Forensic
-                       10) Hackthebox
-                       11) Dark-Web Market
-                       12) Black Market
-                       13) Blackhat Hacking Mart 👨‍💻_ <br>
+_**Admin Of Groups:**  💠 Anonymous
+                       💠 LuxCruels
+                       💠 CraxMind
+                       💠 Illuminaty
+                       💠 Hydra Market
+                       💠 Silver Road v7.31.0
+                       💠 NSO Groups MarketPlace
+                       💠 Great Milton street, UK
+                       💠 IB-Forensic
+                       💠 Hackthebox
+                       💠 Dark-Web Market
+                       💠 Black Market
+                       💠 Blackhat Hacking Mart 👨‍💻_ <br>
 
 [WhatsApp](https://wa.me/+917887970701) / [Email](mailto:Karanthange710@gmail.com) / [Telegram](https://t.me/infoanonymous) / [LinkedIn](https://www.linkedin.com/in/thenameiskarrry/) / [GitHub](https://github.com/2waytoceo/) / [Twitter](https://twitter.com/2waytoceo/) / [Instagram](https://instagram.com/1st.raw/)
 
